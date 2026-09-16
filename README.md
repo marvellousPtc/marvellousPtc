@@ -6,7 +6,7 @@
 
 I build reliable mobile applications and practical web products.
 
-[GitHub](https://github.com/marvellousPtc) · [X](https://x.com/ptc_com) · [Email](mailto:shigeyaoguaiba@gmail.com)
+[Website](https://ptclove.com) · [GitHub](https://github.com/marvellousPtc) · [X](https://x.com/ptc_com) · [Email](mailto:shigeyaoguaiba@gmail.com)
 
 </div>
 
@@ -49,5 +49,5 @@ I build reliable mobile applications and practical web products.
 ## GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marvellousPtc&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ptc's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marvellousPtc&theme=transparent" alt="Ptc's GitHub stats" />
 </div>
