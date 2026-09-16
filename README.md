@@ -2,9 +2,9 @@
 
 # Hi, I'm Ptc
 
-**Mobile & Full-Stack Developer**
+**AI Development Engineer**
 
-I build reliable mobile applications and practical web products.
+I build practical AI-powered products.
 
 [Website](https://ptclove.com) · [GitHub](https://github.com/marvellousPtc) · [X](https://x.com/ptc_com) · [Email](mailto:shigeyaoguaiba@gmail.com)
 
@@ -12,12 +12,16 @@ I build reliable mobile applications and practical web products.
 
 ## About
 
-- Focused on Android, cross-platform mobile development, and full-stack engineering
-- Building with Kotlin, Java, React Native, React, and Node.js
-- Currently exploring AI applications, LLM fine-tuning, and RAG
+- Building practical AI applications with LLMs and RAG
+- Experienced in mobile and full-stack product development
+- Working with Python, TypeScript, Kotlin, Java, and React Native
 - Based in China · Working in Chinese and English
 
 ## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,react,ts,nextjs,vue,nodejs,py,go,postgres,redis,docker,git&perline=14" alt="Technology stack" />
+</div>
 
 **Mobile**
 
